@@ -1,4 +1,4 @@
-# FreeFlow Finance
+![image](https://github.com/user-attachments/assets/a380440a-1b53-472d-a8ab-5cf0ac2e607d)# FreeFlow Finance
 
 FreeFlow Finance is a smart financial tracking system tailored for **freelancers & small businesses**. It helps users manage **income, expenses, tax estimations, and financial insights** all in one place.
 
@@ -96,13 +96,21 @@ npm start        # Run Angular app on http://localhost:4200
 | DELETE | `/api/transaction/delete/:id` | Delete a transaction               |
 | GET    | `/api/transaction/taxSummary` | Get tax details for selected month |
 
-## 🤝 Contributing
 
-Pull requests are welcome! Please open an issue first for major changes.
+![image](https://github.com/user-attachments/assets/392613ae-763b-4b88-ba3a-468577c668a5)
 
-## 📜 License
+![image](https://github.com/user-attachments/assets/af4b8f72-09b5-4081-b877-49c573cb8aec)
 
-This project is **MIT Licensed**.
+![image](https://github.com/user-attachments/assets/5c80316c-fba7-4b0d-b2bc-e7aa63d34986)
+
+![image](https://github.com/user-attachments/assets/721ae185-e121-48ac-ac7c-079aacd75546)
+
+![image](https://github.com/user-attachments/assets/9c250e82-0d00-4ebc-a80b-e67dd906e716)
+
+![image](https://github.com/user-attachments/assets/c43409d1-9d3c-482c-9fa8-7e828cd1caec)
+
+![image](https://github.com/user-attachments/assets/687ea2c6-4ab9-415a-8ebb-2f8b51ad49c1)
+
 
 ---
 
